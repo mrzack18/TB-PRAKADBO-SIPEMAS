@@ -6,13 +6,6 @@ SIPEMAS adalah aplikasi berbasis web yang dirancang untuk memfasilitasi masyarak
 
 Aplikasi ini dikembangkan menggunakan framework **Laravel** yang handal dan aman.
 
-## 👨‍💻 Pembuat
-
-- **Nama**: Zaki Muhamad
-- **GitHub**: [mrzack18](https://github.com/mrzack18)
-
----
-
 ## 🚀 Fitur Utama
 
 - **Dashboard Informatif**: Tampilan data statistik pengaduan yang mudah dipahami.
